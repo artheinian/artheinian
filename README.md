@@ -18,19 +18,40 @@ I enjoy building real-world projects that involve **authentication, third-party 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Dart-blue?logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white"/>
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C%23-purple?logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-blue?logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-lightgrey?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
 </p>
 
 <p align="left">
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-purple"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-darkgreen"/>
+  <img src="https://img.shields.io/badge/Blazor-purple"/>
   <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jakarta%20EE-orange"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-black"/>
+  <img src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white"/>
+</p>
+
+<p align="left">
+  <!-- Tools & Libraries -->
   <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-red"/>
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-purple"/>
+  <img src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-black"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-green?logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material--UI-blue"/>
+  <img src="https://img.shields.io/badge/Bootstrap-purple"/>
+  <img src="https://img.shields.io/badge/LINQ-blue"/>
 </p>
 
 ---
