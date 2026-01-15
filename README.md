@@ -63,7 +63,15 @@ I enjoy building real-world projects that involve **authentication, third-party 
 #### 🎧 **Swipify**
 • A **Flutter-based Spotify demo app** that allows users to swipe through tracks and manage playlists using the **Spotify Web API and OAuth**.  
 • Focused on clean UI, gesture-driven interaction, and real-world API constraints.  
-👉 **Repo:** https://github.com/YOUR-USERNAME/swipify
+👉 **Repo:** https://github.com/artheinian/swipify
+
+---
+
+#### 🧠 **Pomodoro Timer – Hackathon**
+• Developed a **Pomodoro timer web app** during a hackathon to promote focused work sessions and productivity.  
+• Built the front-end using **Next.js, JavaScript, HTML/CSS, and Material-UI**, with emphasis on accessibility and clean UI.  
+• Collaborated with teammates using **Git/GitHub**, resolving merge conflicts and coordinating feature delivery.  
+👉 **Repo:** https://github.com/u-iDaniel/pomodoro
 
 ---
 
