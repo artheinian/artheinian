@@ -1,6 +1,6 @@
 ## Hi, I’m Artheinian 👋😊
 
-<p align="left">
+<p align="middle">
   <a href="https://www.linkedin.com/in/artheinian">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48"/>
   </a>
