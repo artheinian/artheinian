@@ -35,7 +35,7 @@ I enjoy building real-world projects that involve **authentication, third-party 
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Recent Projects
 
 #### 🎧 **Swipify**
 • A **Flutter-based Spotify demo app** that allows users to swipe through tracks and manage playlists using the **Spotify Web API and OAuth**.  
@@ -57,14 +57,15 @@ I enjoy building real-world projects that involve **authentication, third-party 
 ---
 
 ### 🧠 What I’m Currently Learning
-- Advanced Flutter UI & state management  
-- Secure authentication flows (OAuth)  
+- Advanced React and TypeScript 
 - Full-stack application architecture  
-- Writing production-quality READMEs & documentation  
+- Writing production-quality READMEs & documentation
+- Intermediate Python 
 
 ---
 
 ### 📫 Let’s Connect
-- 💼 LinkedIn: YOUR-LINKEDIN  
-- 📧 Email: YOUR_EMAIL  
+- 💼 LinkedIn: https://www.linkedin.com/in/artheinian/ 
+- 📧 Email: artheinianramos@gmail.com
+    
 
