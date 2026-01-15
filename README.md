@@ -1,15 +1,15 @@
 ## Hi, I’m Artheinian 👋😊
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/artheinian"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:artheinianramos@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/artheinian"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I’m a **Computer Information Technology – Application Development student** with a strong interest in **mobile app development**, **API-driven systems**, and **clean, user-focused UI/UX**.
+I’m a Computer Software Developer – ** with a strong interest in **front-end development**, **mobile-app development** **API-driven systems**, and **clean, user-focused UI/UX**.
 
 I enjoy building real-world projects that involve **authentication, third-party APIs, and practical constraints**, and I’m constantly learning how to write cleaner, more maintainable code.
 
