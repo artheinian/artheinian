@@ -60,7 +60,6 @@ I enjoy building real-world projects that involve **authentication, third-party 
 
 #### 🖼️ Capstone — Image Annotation & Health Scoring
 • Built an image annotation workflow using Python + Django, including a mode-aware toolbar **(Cursor/Draw/Move/Delete)** and resize handles for bounding boxes. 
-
 • Developed utilities to aggregate label counts/percentages and generate a **snapshot-level health score**, then saved time-series reports per camera for dashboards and API use.  
 
 ---
