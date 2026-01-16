@@ -59,10 +59,11 @@ I enjoy building real-world projects that involve **authentication, third-party 
 ### 🔥 Recent Projects
 
 #### 🖼️ Capstone — Image Annotation & Health Scoring
-• Built an image annotation workflow using **Python + Django**, including a mode-aware toolbar **(Cursor/Draw/Move/Delete)** and resize handles for bounding boxes.
-• Developed utilities to aggregate label counts/percentages and generate a **snapshot-level health score**, then saved time-series reports per camera for dashboards and API use.
-
----
+• Built an image annotation workflow using **Python + Django**, including a mode-aware toolbar  
+  **(Cursor / Draw / Move / Delete)** and resize handles for bounding boxes.
+• Developed utilities to aggregate label counts and percentages, generate a  
+  **snapshot-level health score**, and save time-series reports per camera  
+  for dashboards and API use.
 
 #### 🎧 **Swipify**
 • A **Flutter-based Spotify demo app** that allows users to swipe through tracks and manage playlists using the **Spotify Web API and OAuth**.  
