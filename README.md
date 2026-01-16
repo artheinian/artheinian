@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a Computer Software Developer – ** with a strong interest in **front-end development**, **mobile-app development** **API-driven systems**, and **clean, user-focused UI/UX**.
+I’m a **Computer Software Developer -** with a strong interest in **front-end development**, **mobile-app development** **API-driven systems**, and **clean, user-focused UI/UX**.
 
 I enjoy building real-world projects that involve **authentication, third-party APIs, and practical constraints**, and I’m constantly learning how to write cleaner, more maintainable code.
 
