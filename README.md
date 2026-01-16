@@ -23,36 +23,35 @@ I enjoy building real-world projects that involve **authentication, third-party 
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
+p align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/C%23-purple?logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-blue?logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-lightgrey?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48"/>
 </p>
 
 <p align="left">
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-purple"/>
-  <img src="https://img.shields.io/badge/.NET%20Core-purple?logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-green?logo=django&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="48"/>
 </p>
 
 <p align="left">
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-purple?logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-green?logo=androidstudio&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="48"/>
 </p>
 
 ---
