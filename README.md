@@ -58,6 +58,13 @@ I enjoy building real-world projects that involve **authentication, third-party 
 
 ### 🔥 Recent Projects
 
+#### 🖼️ Capstone — Image Annotation & Health Scoring
+• Built an image annotation workflow using Python + Django, including a mode-aware toolbar **(Cursor/Draw/Move/Delete)** and resize handles for bounding boxes. 
+• Developed utilities to aggregate label counts/percentages and generate a **snapshot-level health score**, then saved time-series reports per camera for dashboards and API use.  
+👉 **Repo:** https://github.com/artheinian/swipify
+
+---
+
 #### 🎧 **Swipify**
 • A **Flutter-based Spotify demo app** that allows users to swipe through tracks and manage playlists using the **Spotify Web API and OAuth**.  
 • Focused on clean UI, gesture-driven interaction, and real-world API constraints.  
@@ -89,7 +96,9 @@ I enjoy building real-world projects that involve **authentication, third-party 
 - Advanced React and TypeScript 
 - Full-stack application architecture  
 - Writing production-quality READMEs & documentation
-- Intermediate Python 
+- Intermediate Python
+- Data Structures and Algorithims
+- Leetcode Problems
 
 ---
 
