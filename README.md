@@ -23,7 +23,7 @@ I enjoy building real-world projects that involve **authentication, third-party 
 
 ### 🛠️ Languages & Tools
 
-p align="left">
+<p align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48"/>
